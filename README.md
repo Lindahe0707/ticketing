@@ -1,6 +1,6 @@
 # ticketing
 
-This is a course project designed by Stephen Grider on Udemy. The application for people selling and purchasing tickets online using microservices. There are six services: client, auth, expiration, tickets, orders, and payments.
+This is a course project designed by Stephen Grider on Udemy. The application is for people selling and purchasing tickets online using microservices. There are six services: client, auth, expiration, tickets, orders, and payments.
 
 # Build With
 
@@ -18,7 +18,7 @@ This is a course project designed by Stephen Grider on Udemy. The application fo
 
 1. clone the repo
    
-   `git clone https://github.com/Lindahe0707/emailyApp.git`
+   `git clone https://github.com/Lindahe0707/ticketing.git`
 2. In each server file, install npm packages
     
    `npm install`
